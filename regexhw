@@ -3,3 +3,12 @@ Binal Patel
 
 Regex Assignment
 
+1. 
+binal
+(no passwords have "binal" in it)
+
+2.
+^a\w+
+
+3. 
+^\d*$
